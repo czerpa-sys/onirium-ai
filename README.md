@@ -47,6 +47,6 @@ Regression Testing: Run security/evaluacion_local.py to validate lexical blackli
 For a detailed demonstration of this workflow, visit our Kaggle Notebook.
 
 ## Live Demo & References
-Para una demostración completa del flujo de ejecución, los logs del sistema y la arquitectura en funcionamiento, puedes visitar nuestro Notebook oficial en Kaggle:
+For a full demonstration of the execution flow, system logs, and the architecture in action, you can visit our official Notebook on Kaggle:
 
 👉 [Onirium AI - Kaggle Notebook](https://www.kaggle.com/code/carlosenriquezerpa/onirium-artificial-intelligence-agent-orchestrat)
