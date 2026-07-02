@@ -1,0 +1,10 @@
+# Archivos de configuración y secretos
+.env
+
+# Carpetas de caché de Python (basura del sistema)
+__pycache__/
+*.pyc
+
+# Carpetas de entorno virtual (si es que tienes una)
+.venv/
+venv/

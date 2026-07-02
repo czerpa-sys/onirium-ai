@@ -1,0 +1,4 @@
+[
+  "security/test_security.py::test_workflow_allows_safe_dreams",
+  "security/test_security.py::test_workflow_blocks_unsafe_dreams"
+]

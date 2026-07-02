@@ -1,0 +1,6 @@
+# Executive Summary: Onirium AI
+
+Abstract:
+Onirium AI is a specialized multi-agent system designed to facilitate secure, non-clinical dream exploration through narrative and symbolic analysis. In Latin America and Brazil, where dream interpretation is deeply ingrained in cultural identity, users are frequently exposed to irresponsible, "premonitory" websites that exploit anxieties with unverified prophetic claims. 
+
+Onirium AI addresses this cultural gap by providing a responsible alternative. Moving away from the risks of "divination" and medical overstepping, Onirium AI adopts a "Privacy by Design" and "Safety-First" architecture. By leveraging the Antigravity framework, our solution utilizes an orchestrator-based multi-agent topology—comprising Ethical, Symbolic, and Narrative agents—to transform raw dream input into structured, insightful, and safe narrative outputs for introspection. Driven by the Model Context Protocol (MCP), Onirium connects to cultural databases to enrich interpretations without fabricating clinical or prophetic advice, ensuring user well-being remains the priority.
